@@ -2,6 +2,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Instructions
 
-clone repo
-npm i
-npm dev
+- clone repo
+- npm i
+- npm dev
